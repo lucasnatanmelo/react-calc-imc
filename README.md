@@ -4,6 +4,9 @@ Projeto em React  + Typescript para uma calculadora de Índice de Massa Corpóre
 
 Desenvolvido no módulo 4 de ReactJS do curso B7Web.
 
+### Link para acesso:
+https://react-calc-imc-nine.vercel.app/
+
 ### Instalação:
 - `npm install`
 
